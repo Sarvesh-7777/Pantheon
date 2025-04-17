@@ -1,4 +1,6 @@
 *.log
+!*_stats_run1.log
+
 *.tmp
 
 
