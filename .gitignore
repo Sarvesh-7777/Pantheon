@@ -1,0 +1,8 @@
+*.log
+*.tmp
+
+
+*.aux
+*.out
+
+pantheon/tmp/
