@@ -1,0 +1,5 @@
+Scheme,Avg Throughput (Mbit/s),95th Percentile Delay (ms),Loss Rate (%)
+TCP BBR,13.93,131.71,0.16
+TCP Cubic,14.21,1372.64,2.21
+TCP Vegas,3.54,54.70,0.05
+
