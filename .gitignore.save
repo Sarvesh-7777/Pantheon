@@ -1,9 +1,6 @@
 *.log
 *.tmp
 
-
 *.aux
-*.out
-result/
+*.ou
 pantheon/tmp/
-
